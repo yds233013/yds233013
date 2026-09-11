@@ -1,10 +1,14 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3a8a,50:2563eb,100:06b6d4&height=200&section=header&text=Yash%20Shah&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=CS%20%2B%20Economics%20@%20UC%20Berkeley&descAlignY=55&descSize=18" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3a8a,50:2563eb,100:06b6d4&height=160&section=header" />
 
-<a href="https://github.com/yds233013">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=800&color=2563EB&center=true&vCenter=true&width=650&lines=Software+Engineer+%E2%80%A2+Data+Science+%E2%80%A2+AI%2FML;Full-stack+apps+and+scalable+backend+systems;ML+pipelines+and+LLM-powered+workflows;Evaluation+harnesses+that+actually+verify+things" alt="Typing SVG" />
-</a>
+# Hi, I'm Yash Shah 👋
+
+### 💻 CS + Economics @ UC Berkeley
+
+**Software Engineer · Data Science · AI / ML**
+
+Full-stack apps, scalable backend systems, ML pipelines, and LLM-powered workflows.
 
 <br/>
 
