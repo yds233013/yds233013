@@ -28,7 +28,7 @@ class YashShah:
     def __init__(self):
         self.school   = "UC Berkeley"
         self.degrees  = ["Computer Science", "Data Science"]
-        self.focus    = ["Backend Systems", "Data Science", "AI / ML"]
+        self.focus    = ["Backend Systems", "Data Infrastructure", "AI / ML"]
         self.stack    = ["Python", "TypeScript", "Java", "SQL"]
         self.building = "evaluation harnesses, finance tooling, infra dashboards"
 
