@@ -160,7 +160,7 @@ Predicting cricket match results from historical data, with feature engineering 
 
 <br/><br/>
 
-<img width="60%" src="https://streak-stats.demolab.com?user=yds233013&theme=tokyonight&hide_border=true&border_radius=10" />
+<img width="60%" src="https://streak-stats.demolab.com?user=yds233013&theme=tokyonight&hide_border=true&border_radius=10&disable_animations=true" />
 
 </div>
 
