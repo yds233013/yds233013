@@ -4,7 +4,7 @@
 
 # Hi, I'm Yash Shah 👋
 
-### 💻 CS + Economics @ UC Berkeley
+### 💻 CS + Data Science @ UC Berkeley
 
 **Software Engineer · Data Science · AI / ML**
 
@@ -27,7 +27,7 @@ Full-stack apps, scalable backend systems, ML pipelines, and LLM-powered workflo
 class YashShah:
     def __init__(self):
         self.school   = "UC Berkeley"
-        self.studying = ["Computer Science", "Economics"]
+        self.degrees  = ["Computer Science", "Data Science"]
         self.focus    = ["Backend Systems", "Data Science", "AI / ML"]
         self.stack    = ["Python", "TypeScript", "Java", "SQL"]
         self.building = "evaluation harnesses, finance tooling, infra dashboards"
