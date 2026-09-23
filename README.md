@@ -128,8 +128,8 @@ A simulator and evaluation toolkit for enterprise support agents. 190 frozen sce
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![last commit](https://img.shields.io/github/last-commit/yds233013/cerl-bench?style=flat-square&color=2563eb&label=updated)
 
-### 💸 [ledger-ai](https://github.com/yds233013/ledger-ai) — finance workspace where every number is checkable
-Receipt OCR, explainable alerts, and verified financial analysis over synthetic data. Built as a real service, not a notebook.
+### 💸 [ledger-ai](https://github.com/yds233013/ledger-ai) — personal-finance workspace
+Built around the problem of understanding transactions and charges across accounts and cards. Receipt OCR, explainable alerts, and verified financial analysis over synthetic data.
 
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
