@@ -104,6 +104,24 @@ Takes messy legacy ledgers through validation, reconciliation and a governed cha
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![last commit](https://img.shields.io/github/last-commit/yds233013/relay?style=flat-square&color=2563eb&label=updated)
 
+### 🧵 [textileops](https://github.com/yds233013/textileops) — AI-native production control for a textile manufacturer
+A mid-sized knit-fabric business runs on spreadsheets, WhatsApp and the owner's memory. TextileOps does the noticing continuously: a deterministic exception engine re-derives ten kinds of problem from current state, an impact engine attaches days at risk and revenue exposure to each one, and every exception carries its evidence down to the supplier's own message. The arithmetic is tested code; the model only reads unstructured material and drafts explanations.
+
+[![Live demo](https://img.shields.io/badge/▶_Live_demo-2563eb?style=flat-square)](https://textileops.onrender.com)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![last commit](https://img.shields.io/github/last-commit/yds233013/textileops?style=flat-square&color=2563eb&label=updated)
+
+### 🧑‍🔬 [expertops](https://github.com/yds233013/expertops) — expert network operations, end to end
+One connected system for the whole lifecycle: application, screening, qualification, onboarding, invitation, staffing, work review, payment preparation and offboarding. Routine coordination is automated and consequential decisions are not — ten named approval gates require a signed-in human, and each one is recorded against the operator who made it.
+
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![last commit](https://img.shields.io/github/last-commit/yds233013/expertops?style=flat-square&color=2563eb&label=updated)
+
 ### 🧪 [cerl-bench](https://github.com/yds233013/cerl-bench) — deterministic agent evaluation
 A simulator and evaluation toolkit for enterprise support agents. 190 frozen scenarios across three support and billing workflows, exact offline replay, and trace-aware safety grading with no LLM judge in the loop.
 
