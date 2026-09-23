@@ -30,13 +30,13 @@ class YashShah:
         self.degrees  = ["Computer Science", "Data Science"]
         self.focus    = ["Backend Systems", "Data Infrastructure", "AI / ML"]
         self.stack    = ["Python", "TypeScript", "Java", "SQL"]
-        self.building = "evaluation harnesses, finance tooling, infra dashboards"
+        self.building = "agent systems with deterministic guardrails"
 
     def philosophy(self):
         return "If a number shows up on a screen, you should be able to trace it."
 ```
 
-- 🔭 Currently building **[cerl-bench](https://github.com/yds233013/cerl-bench)** — a deterministic enterprise-agent simulator with 190 frozen scenarios and trace-aware safety grading, no LLM judge required.
+- 🔭 Currently building **[sales-engine](https://github.com/yds233013/sales-engine)** and **[relay](https://github.com/yds233013/relay)** — systems where a model does the reading and the reasoning, and deterministic engines stay in charge of what is true. Both have live demos.
 - 🌱 Going deep on **distributed systems**, **LLM evaluation**, and **data infrastructure**.
 - 💬 Happy to talk about **FastAPI, Postgres, retrieval pipelines, agent evals, or SQL that refuses to be slow**.
 - ⚡ Fun fact: most of my side projects start because I wanted to check a number somebody else asked me to trust.
@@ -63,6 +63,7 @@ class YashShah:
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
@@ -81,6 +82,27 @@ class YashShah:
 ---
 
 ## 🚀 Featured Projects
+
+### 🏭 [sales-engine](https://github.com/yds233013/sales-engine) — agent-led technical sales with deterministic guardrails
+An adaptive Claude agent reads a messy industrial request and decides what to investigate. Deterministic engines decide what is **true**: compatibility, stock, pricing and approvals never come from the model, and any claim the engines did not produce is rejected before it reaches a customer. 14 of 14 business outcomes correct in the eval suite, with zero safety violations.
+
+[![Live demo](https://img.shields.io/badge/▶_Live_demo-2563eb?style=flat-square)](https://sales-engine.up.railway.app)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)
+![MCP](https://img.shields.io/badge/MCP-000000?style=flat-square&logo=anthropic&logoColor=white)
+![last commit](https://img.shields.io/github/last-commit/yds233013/sales-engine?style=flat-square&color=2563eb&label=updated)
+
+### 🧾 [relay](https://github.com/yds233013/relay) — legacy accounting data to a verified ERP go-live
+Takes messy legacy ledgers through validation, reconciliation and a governed change workflow, then answers the only question that matters: is this migration safe to launch? 37 deterministic rules and 10 reconciliations turn 65 findings into the 20 decisions a person actually has to make, every fix needs an approver who did not request it, and 12 readiness gates sit on a hash-chained audit trail. Switching the AI off removes no correctness.
+
+[![Live demo](https://img.shields.io/badge/▶_Live_demo-2563eb?style=flat-square)](https://web-production-9032d5.up.railway.app)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![last commit](https://img.shields.io/github/last-commit/yds233013/relay?style=flat-square&color=2563eb&label=updated)
 
 ### 🧪 [cerl-bench](https://github.com/yds233013/cerl-bench) — deterministic agent evaluation
 A simulator and evaluation toolkit for enterprise support agents. 190 frozen scenarios across three support and billing workflows, exact offline replay, and trace-aware safety grading with no LLM judge in the loop.
