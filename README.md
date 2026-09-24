@@ -83,6 +83,16 @@ class YashShah:
 
 ## 🚀 Featured Projects
 
+### 📡 [gtmos](https://github.com/yds233013/gtmos) — a GTM control plane that publishes its own negative results
+Connects product signals, enrichment and CRM state to work out which accounts deserve attention, why now, and who owns them. The interesting part is what it refuses to claim: the lead-scoring model posts a structural AUC of 0.537, not distinguishable from random, and the repo leads with that instead of the flattering leakage-contaminated 0.593. The best-performing subject line lifts replies by 16.3 points and is still recommended against, because the extra replies are angry ones. One of four integrations is verified by execution, and the other three say so in the product.
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![dbt](https://img.shields.io/badge/dbt-FF694B?style=flat-square&logo=dbt&logoColor=white)
+![last commit](https://img.shields.io/github/last-commit/yds233013/gtmos?style=flat-square&color=2563eb&label=updated)
+
 ### 🏭 [sales-engine](https://github.com/yds233013/sales-engine) — agent-led technical sales with deterministic guardrails
 An adaptive Claude agent reads a messy industrial request and decides what to investigate. Deterministic engines decide what is **true**: compatibility, stock, pricing and approvals never come from the model, and any claim the engines did not produce is rejected before it reaches a customer. 14 of 14 business outcomes correct in the eval suite, with zero safety violations.
 
